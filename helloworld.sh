@@ -2,8 +2,8 @@
 
 
 
-PERSON1=Sampath
-PERSON2=Ramesh
+PERSON1=Bmw
+PERSON2=Volvo
 echo "$PERSON2:hi sampath"
 echo "$PERSON2: Hello sampath reddy"
 echo "$PERSON1: hey! hi "
