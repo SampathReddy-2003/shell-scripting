@@ -8,7 +8,7 @@ echo "sum is: $SUM"
 
 #arrays
 
-FRUIT=("APPLE","BANANA","POMO")
+FRUIT=("APPLE" "BANANA" "POMO")
 echo "fruits are: ${FRUIT[@]}"
 echo "fruits are: ${FRUIT[0]}"
 echo "fruits are: ${FRUIT[1]}"
